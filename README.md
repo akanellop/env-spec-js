@@ -1,6 +1,6 @@
 # env-spec-js
-
-...
+JavaScript Web App
+Ininitialization page for limiting errors in .env files.
 
 ## Contributing
 
